@@ -1,17 +1,7 @@
+1. For my project, I plan to create a text-based program that takes the user input of a simple sentence and converts it into a basic syntax tree. I plan to either ask the user to provide the part of speech for each word (to allow for more flexibility), or I will use pre-set lists of common nouns and verbs. I will definitely start by accepting simple sentences ("The dog ate the steak."), and eventually I will perhaps try to expand the scope to include relatively more complex sentences ("The gift was handed to her by him.") 
 
+2a. Function 1: Accept user input of a simple sentence and split the sentence into words
+2b. Function 2: Categorize each word into a part of speech and analyze the sentence structure
+2c. Function 3: Plug each word into a syntax tree and format it accordingly
 
-1. A brief (3-5 sentences) description of your planned project
-2 a, b, c. For each of three functions, a very brief (1-2 sentences) description of what the function will do.
-3. If you are doing a group project, the list of group members with both their real names and Github usernames.
-4 a & b. If you are doing a group project, very brief statements (1-2 sentences each) describing:
-How work will be divided (assigned and tracked) among group members, and;
-How (and how often!) team members will communicate with each other about the project (such as weekly meetings, ongoing group chat, etc.)
-Submit the URL for your public project repository for this assignment in Canvas. If you are doing a group project, include your Github username as a comment on the assignment submission (so we can be sure to track contributions by group members, just in case your Github username doesn't obviously map to your name in the course register or NetID).
-
-
-Ideas: 
-- a program that takes user input of words and outputs it to IPA. could even play the sounds
-- a program that finds minimal pairs for words
-- journal entry analyzer : finds lexical diversity and word frequency, and also sentiment (positive, neutral, negative)
-- word mood tracker
-- word collector: every time i learn a new word, i store the definition, the etymology, and an example sentence. over time, i can search through all of the entries in a file
+3. I plan to complete this project on my own.
