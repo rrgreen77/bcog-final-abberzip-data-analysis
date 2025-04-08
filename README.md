@@ -1,9 +1,8 @@
-1: For my project, I plan to use tkinter to create a text-based program that takes the user input of a simple sentence and converts it into a basic syntax tree. I plan to either ask the user to provide the part of speech for each word (to allow for more flexibility), or I will use logic and pre-set lists of common nouns and verbs to determine the parts of speech using code. I will definitely start by accepting simple SVO sentences ("The dog ate the steak."), and eventually I will perhaps try to expand the scope to include relatively more complex sentences with different orders of subject, verb, and object ("What did you eat?").
-
-2a: Function 1: Accept user input of a simple sentence and split the sentence into words
-
-2b: Function 2: Categorize each word into a part of speech and analyze the sentence structure
-
-2c: Function 3: Plug each word into a syntax tree and format it accordingly using indentation symbols (├──, └──, │) 
-
-3: I plan to complete this project on my own.
+Documentation file (this can be a revision of your existing readme file): An overview/outline/draft of the material that you will provide to users to guide them through using your program. Examples of elements to include are:
+* introduction to the logic ("sales pitch") for your program
+* names of functions/methods and the parameters that they take
+* example use cases (e.g. why would someone use this program)
+* if your program takes data as input: the necessary structure of the data to be read, such as:
+      * the format of the datafile
+      * descriptive field names and their required content formatting (e.g. strings, integers)
+      * whether variable names must be included and/or whether fields must be in a specified order, etc.
