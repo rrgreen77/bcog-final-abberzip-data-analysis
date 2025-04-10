@@ -3,15 +3,14 @@ My (revised) program will be an analysis program for the data generated from a P
 
 In terms of functions & methods and their parameters, I'd ideally like to have multiple functions that will use pandas to create various dataframes and plots to model the data (similar to what we did in lab_15 and homework_15). However, my project will incorporate more complexity: 
 * There will be more data and variables to organize
+      * trialCt
+      * rt (reaction times)
+      * accuracy
+      * pos_x
+      * pos_y
+      * score
 * I will be analyzing mousetracking data with the goal of analyzing and plotting the mouse movements
 * I will be formatting everything using a Jupyter notebook
-
-    startX = 0
-    startY = -0.8
-    endX = 0.3
-    endY = 0.5
-    lureX = -0.3
-    lureY = 0.5
 
 This program is useful because it provides a way to both explain the context and motivations behind the experiment and analyze the findings--all in one organized space: the Jupyter notebook. I hope to reuse the code I write for this project in future research projects to present my conclusions.    
 
