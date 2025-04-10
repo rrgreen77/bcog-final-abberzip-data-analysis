@@ -6,6 +6,13 @@ In terms of functions & methods and their parameters, I'd ideally like to have m
 * I will be analyzing mousetracking data with the goal of analyzing and plotting the mouse movements
 * I will be formatting everything using a Jupyter notebook
 
+    startX = 0
+    startY = -0.8
+    endX = 0.3
+    endY = 0.5
+    lureX = -0.3
+    lureY = 0.5
+
 This program is useful because it provides a way to both explain the context and motivations behind the experiment and analyze the findings--all in one organized space: the Jupyter notebook. I hope to reuse the code I write for this project in future research projects to present my conclusions.    
 
 I will be using numerous .csv data files as input. As mentioned in the Zoom meeting, the data used will have been generated from the previous experimental runs of AbberZip. 
