@@ -2,7 +2,7 @@ My (revised) program will be an analysis program for the data generated from a P
 * Context summary: The AbberZip project is meant to examine the cognitive processes underlying language learning, more specifically, the           thought processes involving learning generalizations and exceptions. The researcher behind the project (Dr. Karina Tachihara) hypothesizes that generalizations become suppressed over time when presented with exceptions (cf. exceptions simply becoming more easily-retrieved and generalizations remaining at the same retrieval level). For example, the Spanish word "el mapa" is an exception, because Spanish words ending in "a" are usually feminine, and would typically carry the article "la." 
 * Mousetracking is used specifically to investigate the effect of lures. If an (incorrect, generalized) stimuli attracts the user before they move their mouse towards the correct stimuli, we can assume that generalizations are still playing an effect on the user's psyche. As the attraction towards the lure decreases, it can be assumed that the exception retrieval rate is beating out that of the generalization. The image below will present a visual example of the calculations I will be making to analyze the lure stimuli's effect.
 
-* <img width="186" alt="Screenshot 2025-04-11 at 15 03 06" src="https://github.com/user-attachments/assets/1dcf8f3c-ea7a-4d46-95aa-176b738a7740" />
+<img width="186" alt="Screenshot 2025-04-11 at 15 03 06" src="https://github.com/user-attachments/assets/1dcf8f3c-ea7a-4d46-95aa-176b738a7740" />
 
 * Please visit this link for more information about the original project: https://escholarship.org/content/qt82x8c04s/qt82x8c04s_noSplash_58ab61cf9074d73a890585be5e003c37.pdf?t=sgiuiq 
 
