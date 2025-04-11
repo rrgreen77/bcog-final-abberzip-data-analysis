@@ -4,6 +4,7 @@ My (revised) program will be an analysis program for the data generated from a P
 
 In terms of functions & methods and their parameters, I'd ideally like to have multiple functions that will use pandas to create various dataframes and plots to model the data (similar to what we did in lab_15 and homework_15). However, my project will incorporate more complexity: 
 * There will be more data and variables to organize (trial count, reaction times, accuracy, x and y positions, scores, etc.)
+* I will be using the pandas and numpy libraries
 * I will be examining the mousetracking data with the goal of analyzing and plotting the mouse movements
 * I will be formatting everything using a Jupyter notebook
 
