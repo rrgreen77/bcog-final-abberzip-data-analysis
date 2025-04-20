@@ -1,4 +1,4 @@
-Check-In #3 -- Pseudo Rubric
+Check-In #3 (4-21-25) -- Pseudo Rubric
 
 Concept 
 * Although I am not finished, I am able to complete my project in code. I am interested in my data analysis task because I will be able to reuse it in the future. 
