@@ -1,3 +1,41 @@
+Check-In #3 -- Pseudo Rubric
+
+Concept 
+* Although I am not finished, I am able to complete my project in code. I am interested in my data analysis task because I will be able to reuse it in the future. 
+
+File Structure 
+* I have my documentation file (README.md), an unfinished required packages file (requirements.txt), my references (works_cited.md), my unfinished test file (test.py), and my pain script (main.py). My repository described my project well: "bcog-final-abberzip-data-analysis." I definitely have room for improvement in my file organization, but the bare bones are at least there.
+
+Project Description 
+* My project descriptions are contained both in this markdown file and in markdown cells in the Jupyter notebook itself. 
+
+Approach 
+* I use libraries such as numpy and pandas, which are relevant tools discussed in class.
+* I create functions and properly implement them
+
+Project Code 
+
+* I use appropriate variable types
+* I use appropraite code constructs
+* I organize my code into functions (there will be at least 3)
+* Although currently unfinished, I will ensure my code will execute
+* I use a modular organization (i.e. I use a main function to run everything)
+
+Code Style 
+* I use blank lines to separate code elements and logical structure
+* I use good indentation andn spacing
+* Although currently unimplemented, I will use idiomatic Python (e.g., list comprehensions where appropriate, etc.)
+* I use descriptive names
+* I follow Pythonic naming conventions
+
+Code Documentation
+* Although currently unimplemented, I will be sure to include user documentation, such as docstrings and/or type hinting for custom classes, functions, and methods
+* I include appropriate comments within the code
+
+Code Tests
+* I will organize my functions into a test file and then into a test folder, and use pytest to make sure the code executes. 
+
+
 My (revised) program will be an analysis program for the data generated from a Psychopy experiment explained further below. I hope to analyze mousetracking data and response times as the main dependent variables. I plan to use a Jupyter notebook to organize everything and explain the context and motivations behind the original experiment. 
 * Context summary: The AbberZip project is meant to examine the cognitive processes underlying language learning, more specifically, the           thought processes involving learning generalizations and exceptions. The researcher behind the project (Dr. Karina Tachihara) hypothesizes that generalizations become suppressed over time when presented with exceptions (cf. exceptions simply becoming more easily-retrieved and generalizations remaining at the same retrieval level). For example, the Spanish word "el mapa" is an exception, because Spanish words ending in "a" are usually feminine, and would typically carry the article "la." 
 * Mousetracking is used specifically to investigate the effect of lures. If an (incorrect, generalized) stimuli attracts the user before they move their mouse towards the correct stimuli, we can assume that generalizations are still playing an effect on the user's psyche. As the attraction towards the lure decreases, it can be assumed that the exception retrieval rate is beating out that of the generalization. The image below will present a visual example of the calculations I will be making to analyze the lure stimuli's effect.
