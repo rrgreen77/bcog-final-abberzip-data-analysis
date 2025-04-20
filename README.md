@@ -4,7 +4,7 @@ Concept
 * Although I am not finished, I am able to complete my project in code. I am interested in my data analysis task because I will be able to reuse it in the future. 
 
 File Structure 
-* I have my documentation file (README.md), an unfinished required packages file (requirements.txt), my references (works_cited.md), my unfinished test file (test.py), and my pain script (main.py). My repository described my project well: "bcog-final-abberzip-data-analysis." I definitely have room for improvement in my file organization, but the bare bones are at least there.
+* I have my documentation file (README.md), an unfinished required packages file (requirements.md), my references (works_cited.md), my unfinished test file (test.py), and my main script (main.py). My repository describes my project well: "bcog-final-abberzip-data-analysis." I definitely have room for improvement in my file organization, but the bare bones are at least there.
 
 Project Description 
 * My project descriptions are contained both in this markdown file and in markdown cells in the Jupyter notebook itself. 
