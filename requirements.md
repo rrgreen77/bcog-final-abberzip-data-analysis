@@ -1,5 +1,9 @@
 required packages: 
 
-jupyter
-pandas
-numpy
+* jupyter
+* jupyter lab
+* pandas
+* numpy
+* os
+* matplotlib.pyplot
+* scipy
