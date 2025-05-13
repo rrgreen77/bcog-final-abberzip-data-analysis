@@ -1,5 +1,5 @@
 jupyter
-jupyter lab
+jupyterlab
 pandas
 matplotlib
 numpy
