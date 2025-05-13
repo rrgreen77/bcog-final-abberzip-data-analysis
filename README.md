@@ -10,7 +10,7 @@ My analysis is outlined in a Jupyter notebook, and is composed of:
      * Step 5: Calculate the areas under the curve
      * Step 6: Calculate the area under the curve for all participants
      * Step 7: Determine the statistical significance of the average AUC difference result
-* A conclusion section that interprets the final results and outlines possible future improvements
+* A conclusion section that interprets the final results and outlines possible future improvements for the project and the analysis
 
 
 
