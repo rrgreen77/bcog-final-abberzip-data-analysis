@@ -13,5 +13,11 @@ My analysis is outlined in a Jupyter notebook, and is composed of:
 * A conclusion section that interprets the final results and outlines possible future improvements for the project and the analysis
 
 
-
+Instructions for running: 
+* Clone the repository or download the notebook
+* Make sure that the clickData, runInfo, and trackAllData folders are in the same directory as the jupyter notebook
+* Open the notebook in your editor and run everything
+* To install all the requirements at the same time, use this command in your terminal:
+     ```bash
+     pip install -r requirements.txt
 
