@@ -14,7 +14,7 @@ My analysis is outlined in a Jupyter notebook, and is composed of:
 
 
 Instructions for running: 
-* Clone the repository or download the notebook
+* Clone the repository or download the notebook (main.ipynb)
 * Download clickData, runInfo, trackAllData, and images folders by pasting their URLs into https://download-directory.github.io/
 * Make sure that the clickData, runInfo, and trackAllData, and images folders are in the same directory as the jupyter notebook. Create a new empty folder called 'output' (to catch the spreadsheets) and put that in the same directory also.
 * Open the notebook in your editor and run everything
